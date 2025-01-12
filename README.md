@@ -1,4 +1,4 @@
-# OpenResume
+# Resume
 
 OpenResume is a powerful open-source resume builder and resume parser.
 
