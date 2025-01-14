@@ -179,12 +179,12 @@ export const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center pt-6">
             
             <div className="flex items-center space-x-2">
-              <span className="font-semibold">© 2024 Signature Generator</span>
+              <span className="font-semibold">Graph Maker</span>
             </div>
   
             
             <div className="mt-4 md:mt-0 text-center md:text-left text-sm text-muted-foreground">
-              <p>All rights reserved.</p>
+              <p>© 2024 Graph Maker All rights reserved.</p>
             </div>
           </div>
         </div>
