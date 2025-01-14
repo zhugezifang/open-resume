@@ -140,7 +140,7 @@ export const Footer = () => {
     return (
         <footer className="relative w-full bg-gray-50 backdrop-blur-sm">
         <div className="absolute inset-0 bg-gradient-to-t from-primary/10 via-background/5 to-transparent pointer-events-none" />
-        <div className="mx-auto max-w-screen-2xl relative px-4 md:px-6 py-12 md:py-16">
+        <div className="mx-auto max-w-3xl mt-8 rounded-2xl px-8 pb-12 pt-10 lg:mt-2">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {Object.entries(footerLinks).map(([category, links]) => (
               <div key={category} className="space-y-3">
@@ -179,12 +179,12 @@ export const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center pt-6">
             
             <div className="flex items-center space-x-2">
-              <span className="font-semibold">Graph Maker</span>
+              <span className="font-semibold">Resume Maker</span>
             </div>
   
             
             <div className="mt-4 md:mt-0 text-center md:text-left text-sm text-muted-foreground">
-              <p>© 2024 Graph Maker All rights reserved.</p>
+              <p>Inspired by <a href="https://github.com/xitanggg/open-resume" target="_blank">open-resume</a></p>
             </div>
           </div>
         </div>
