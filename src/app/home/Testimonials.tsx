@@ -67,7 +67,7 @@ export const Testimonials = ({ children }: { children?: React.ReactNode }) => {
       <h2 className="mb-8 text-center text-3xl font-bold">
         People{" "}
         <Image src={heartSrc} alt="love" className="-mt-1 inline-block w-7" />{" "}
-        OpenResume
+        Resume Maker
       </h2>
       <div className="mx-auto mt-10 h-[235px] max-w-lg lg:h-[400px] lg:pt-28">
         <div className="relative lg:ml-[-50px]">
