@@ -140,7 +140,7 @@ export const Footer = () => {
     return (
         <footer className="relative w-full bg-white backdrop-blur-sm">
         <div className="absolute inset-0 bg-gradient-to-t from-primary/10 via-background/5 to-transparent pointer-events-none" />
-        <div className="container relative px-4 md:px-6 py-12 md:py-16">
+        <div className="mx-auto max-w-screen-2xl relative px-4 md:px-6 py-12 md:py-16">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {Object.entries(footerLinks).map(([category, links]) => (
               <div key={category} className="space-y-3">
