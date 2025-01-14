@@ -7,7 +7,7 @@ const STEPS = [
 export const Steps = () => {
   return (
     <section className="mx-auto mt-8 rounded-2xl bg-sky-50 bg-dot px-8 pb-12 pt-10 lg:mt-2">
-      <h1 className="text-center text-3xl font-bold">3 Simple Steps</h1>
+      <h2 className="text-center text-3xl font-bold">3 Simple Steps To Make a Resume</h2>
       <div className="mt-8 flex justify-center">
         <dl className="flex flex-col gap-y-10 lg:flex-row lg:justify-center lg:gap-x-20">
           {STEPS.map(({ title, text }, idx) => (

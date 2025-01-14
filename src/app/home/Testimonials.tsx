@@ -11,21 +11,21 @@ const TESTIMONIALS = [
   {
     src: testimonialSpiegelSrc,
     quote:
-      "Students often make silly mistakes on their resume by using inconsistent bullet points or font sizes. OpenResume’s auto format feature is a great help to ensure consistent format.",
+      "Students frequently make simple errors on their resumes, such as mismatched bullet styles or inconsistent font sizes. The auto-formatting feature in Resume Maker is incredibly useful for maintaining a uniform and polished layout.",
     name: "Ms. Spiegel",
     title: "Educator",
   },
   {
     src: testimonialSantiSrc,
     quote:
-      "I used OpenResume during my last job search and was invited to interview at top tech companies such as Google and Amazon thanks to its slick yet professional resume design.",
+      "When I used Resume Maker during my previous job hunt, its sleek and professional design helped me secure interviews at leading tech companies like Google and Amazon.",
     name: "Santi",
     title: "Software Engineer",
   },
   {
     src: testimonialVivianSrc,
     quote:
-      "Creating a professional resume on OpenResume is so smooth and easy! It saves me so much time and headache to not deal with google doc template.",
+      "Using Resume Maker to craft a professional resume is a seamless and stress-free experience. It has saved me countless hours and eliminated the frustration of working with Google Docs templates.",
     name: "Vivian",
     title: "College Student",
   },

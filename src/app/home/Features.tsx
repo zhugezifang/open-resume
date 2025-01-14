@@ -9,25 +9,24 @@ const FEATURES = [
   {
     src: featureFreeSrc,
     title: "Free Forever",
-    text: "OpenResume is created with the belief that everyone should have free and easy access to a modern professional resume design",
+    text: "Resume Maker was developed to ensure that everyone can easily and freely access contemporary, professional resume templates",
   },
   {
     src: featureUSSrc,
     title: "U.S. Best Practices",
-    text: "OpenResume has built-in best practices for the U.S. job market and works well with top ATS platforms such as Greenhouse and Lever",
+    text: "The tool incorporates best practices tailored for the U.S. job market and is fully compatible with leading ATS platforms like Greenhouse and Lever",
   },
   {
     src: featurePrivacySrc,
     title: "Privacy Focus",
-    text: "OpenResume stores data locally in your browser so only you have access to your data and with complete control",
+    text: "Resume Maker keeps all data stored locally within your browser, ensuring you maintain exclusive access and full control over your information",
   },
   {
     src: featureOpenSourceSrc,
     title: "Open-Source",
     text: (
       <>
-        OpenResume is an open-source project, and its source code can be viewed
-        by anyone on its{" "}
+        As an open-source initiative, Resume Maker's source code is publicly accessible for anyone to review on its{" "}
         <Link href="https://github.com/xitanggg/open-resume">
           GitHub repository
         </Link>
