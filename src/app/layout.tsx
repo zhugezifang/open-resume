@@ -15,6 +15,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4158779929727637"
+           crossOrigin="anonymous"></script>
       <body>
         <TopNavBar />
         {children}
